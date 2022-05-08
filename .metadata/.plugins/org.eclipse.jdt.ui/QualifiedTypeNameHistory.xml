@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="dealcards.Deal"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="piotrrucinski.Person.Gender"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="piotrrucinski.Activity.Emotions"/>
+    <fullyQualifiedTypeName name="piotrrucinski.Activity"/>
+    <fullyQualifiedTypeName name="piotrrucinski.COVID.SwappedActivities"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="piotrrucinski.COVID"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.ArrayUtils"/>
+    <fullyQualifiedTypeName name="piotrrucinski.Activity.ActivityName"/>
+    <fullyQualifiedTypeName name="Jama.Matrix"/>
+</qualifiedTypeNameHistroy>
